@@ -1,0 +1,9 @@
+.meta-wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  border: 10px solid black;
+}

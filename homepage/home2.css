@@ -1,0 +1,7 @@
+.player-info {
+  display: flex;
+}
+.team-player {
+  display: flex;
+  flex-wrap: wrap;
+}
